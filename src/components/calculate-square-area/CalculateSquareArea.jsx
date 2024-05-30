@@ -1,5 +1,5 @@
-const CalculateSquareArea=({lado})=>{
-    return <h2>El área del cuadrado de lado {lado} = {lado*lado}</h2>
+const CalculateSquareArea=({side})=>{
+    return <h2>El área del cuadrado de lado {side} = {side*side}</h2>
 
 }
 
